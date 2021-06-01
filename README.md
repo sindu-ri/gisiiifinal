@@ -22,12 +22,21 @@
 ![NOLA Planning Districts – Population Distribution](https://github.com/sindu-ri/gisiiifinal/blob/main/Methods%20(1).png)
 ![Post-Katrina Louisiana Migration Patterns](https://github.com/sindu-ri/gisiiifinal/blob/main/Methods%20(2).png)
 
-# Results 
+## Results 
 Navigate to respository files to access the resulting datasets and visualizations from this process. 
 [NOLA Planning Districts – Population Distribution Visualization ](https://kepler.gl/demo/map/carto?mapId=08482dea-b13e-3083-7845-08bc75a575af&owner=sindu-ri&privateMap=false)
+
 [Post-Katrina Louisiana Migration Patterns Visualization](https://kepler.gl/demo/map/carto?mapId=3e60b03d-27e3-b56a-6eff-822e53e7e347&owner=sindu-ri&privateMap=false)
 
+### Discussion of Results
+*Population Redistribution*
+Following Katrina, New Orleans faced population changes that can be at least partially attributed to death, destruction, and migration out of NOLA during and after the storm. The visualization created displays percent population changes throughout planning districts in New Orleans. As shown through the map, Planning Districts 8 and 11 faced the most extreme changes in population loss before and after the storm – both districts are home to many of the city’s majority-minority neighborhoods who face a legacy of disinvestment, marginalization, and disenfranchisement due to historical and ongoing discrimination and (as proven by Katrina response and relief) consistent neglect. 
+
+*Migration out of NOLA*
+Many surviving residents of New Orleans migrated out of Louisiana following the storm. The created data visualization shows the flow of residents out of New Orleans, through arches from the origin of Louisiana moving outwards to others states in the United States. Katrina is often described to be the biggest climate-driven migration since the Dust Bowl of the 1930s, with over a million people fleeing from the state after the storm. This maps grounds arguments of environmental migration and the impact of climate and weather patterns on displacement by displaying the large-scale migration out of Louisiana in the months/years following Katrina.  Based on the created visual, most migrating survivors moved to states neighboring Louisiana, with a large flow of residents into Texas, Florida, Arkansas, etc. 
+
  
-## Limitations 
-Timespan of census data on population – I used a dataset of 2019 and 2000 population
-Difficult to make causal inferences and claims for migration data, and to connect population movement to Katrina when so many other confounding variables may impact decisions to move  
+## Limitations and Future Work 
+Narratives and legal categorizations of environmental refugees and climate-driven migrations are often limited by the difficulty of assigning causality to movement and migration flow. While the focus of my project was on migration following Hurricane Katrina, it is challenging to make large-scale causal inferences and claims for migration data, and to connect populatupulation movement to Katrina when so many other confounding variables may impact individuals' decisions to move. The results of this project are further limited by the temporal scale of the datasets used; Because Katrina occured in between census collection years and The Data Centure only carries data from 2000 and 2019, only broad claims regarding the correlation between population loss in certain planning distructs can be made. 
+
+Despite these limitations, this project allowed me to practice skills in data wrangling and visualization creation that I hope to use for future personal work in studying climate-driven migration patterns. From this process, I learned the challenges associated with assigning causality (particular related to environmental causes) to migration patterns and population distribution changes. Future work should involve data analysis of population and migration in years prior to and after the storm and allow for a comparison between a "controlled" year (with no storm influencing movement/population patterns) and a year with trends influenced by the storm. This project also provides an opportunity for a mixed-methods approach to data analysis; the combination of spatial data and alsysis and qualitative material from ethnographies, anecdotes from survivors, etc. can allow for a more complete understanding of the impacts of Hurricane Katrina on migration patterns.
