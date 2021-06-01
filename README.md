@@ -22,6 +22,11 @@
 ![NOLA Planning Districts – Population Distribution](https://github.com/sindu-ri/gisiiifinal/blob/main/Methods%20(1).png)
 ![Post-Katrina Louisiana Migration Patterns](https://github.com/sindu-ri/gisiiifinal/blob/main/Methods%20(2).png)
 
+# Results 
+Navigate to respository files to access the resulting datasets and visualizations from this process. 
+[NOLA Planning Districts – Population Distribution Visualization ](https://kepler.gl/demo/map/carto?mapId=08482dea-b13e-3083-7845-08bc75a575af&owner=sindu-ri&privateMap=false)
+[Post-Katrina Louisiana Migration Patterns Visualization](https://kepler.gl/demo/map/carto?mapId=3e60b03d-27e3-b56a-6eff-822e53e7e347&owner=sindu-ri&privateMap=false)
+
  
 ## Limitations 
 Timespan of census data on population – I used a dataset of 2019 and 2000 population
