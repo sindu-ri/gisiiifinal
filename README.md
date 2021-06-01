@@ -12,13 +12,15 @@
 ## Data Sources, Spatial and Temporal Scale
 • The United States Census Bureau provides [State-to-State migration flow](https://www.census.gov/data/tables/time-series/demo/geographic-mobility/state-to-state-migration.html) data that could be used in order to visualize the displacement of populations living in New Orleans and other areas affected by the storm and map out where communities fled to in the months/years following Katrina. 
     Temporal scale of dataset used: 2005-2007 migration flows
+
 • The [Data Center of Southern Louisiana](https://www.datacenterresearch.org/data-resources/who-lives-in-new-orleans-now/) has compiled US Census data and available state resources that is relevant to the effects of Hurricane Katrina. In particular, they source information regarding the US Census-collected population prior to and after the Storm. This can be used to show the change in total population preceding the storm and shortly thereafter.
     Temporal scale of dataset used: 2000 and 2019 population distributions 
+
 • [Planning district geometry](https://portal-nolagis.opendata.arcgis.com/datasets/planning-districts?geometry=-90.354%2C29.907%2C-89.401%2C30.115) sourced from City of New Orleans' open data portal. Data was downloaded as shp file and transformed into GeoJSON (usable through keplr.gl software) during spatial joins of data with population data from The Data Center. 
 
 ## Methods 
-![NOLA Planning Districts – Population Distribution](https://github.com/sindu-ri/gis3final/blob/main/GISIIIFinal%20Methods%201.png)
-![Post-Katrina Louisiana Migration Patterns](https://github.com/sindu-ri/gis3final/blob/main/GISIIIFinal%20Methods%202.png)
+![NOLA Planning Districts – Population Distribution](https://github.com/sindu-ri/gisiiifinal/blob/main/Methods%20(1).png)
+![Post-Katrina Louisiana Migration Patterns](https://github.com/sindu-ri/gisiiifinal/blob/main/Methods%20(2).png)
 
  
 ## Limitations 
