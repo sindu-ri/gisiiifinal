@@ -6,7 +6,9 @@
 
 ## Goals and Objectives
 •  The use of geocomputational operations to wrangle the American Community Survey (ACS) and the Puerto Rico Community Survey as a data set – this survey asks  ask respondents age whether they lived in the same residence 1 year ago and their location of their previous residence is collected if they have moved. Using this as an access points, flows of former-New Orleans-residents can be collected in order to gather origin-destination data (where origin is New Olreans) from 2006. 
+
 • The use of geocomputational operations to wrangle data from The Data Center of Southern Louisiana and US Census Bureau to measure the change in total population preceding the storm and shortly thereafter, as well as changes in total population of each ward or planning district of the city.  
+
 • Application of wrangled data in order to create visualizations of displacement and migration due to Hurricane Katrina, using PostGreSQL through Carto and/or Keplr.Gl softwares
 
 ## Data Sources, Spatial and Temporal Scale
