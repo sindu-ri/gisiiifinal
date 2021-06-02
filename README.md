@@ -33,9 +33,11 @@ Navigate to respository files to access the resulting datasets and visualization
 
 ### Discussion of Results
 *Population Redistribution*
+
 Following Katrina, New Orleans faced population changes that can be at least partially attributed to death, destruction, and migration out of NOLA during and after the storm. The visualization created displays percent population changes throughout planning districts in New Orleans. As shown through the map, Planning Districts 8 and 11 faced the most extreme changes in population loss before and after the storm – both districts are home to many of the city’s majority-minority neighborhoods who face a legacy of disinvestment, marginalization, and disenfranchisement due to historical and ongoing discrimination and (as proven by Katrina response and relief) consistent neglect. 
 
 *Migration out of NOLA*
+
 Many surviving residents of New Orleans migrated out of Louisiana following the storm. The created data visualization shows the flow of residents out of New Orleans, through arches from the origin of Louisiana moving outwards to others states in the United States. Katrina is often described to be the biggest climate-driven migration since the Dust Bowl of the 1930s, with over a million people fleeing from the state after the storm. This maps grounds arguments of environmental migration and the impact of climate and weather patterns on displacement by displaying the large-scale migration out of Louisiana in the months/years following Katrina.  Based on the created visual, most migrating survivors moved to states neighboring Louisiana, with a large flow of residents into Texas, Florida, Arkansas, etc. 
 
  
